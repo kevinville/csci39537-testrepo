@@ -49,12 +49,12 @@ using System.Collections;
             workerInfo[1] = new Spongebob();
             workerInfo[1].FirstName = "SPongebob";
             workerInfo[1].LastName = "Squarepants";
-            workerInfo[0].Salary = 46246;
+            workerInfo[1].Salary = 46246;
 
             workerInfo[2] = new Spongebob();
             workerInfo[2].FirstName = "Eugene";
             workerInfo[2].LastName = "Krabs";
-            workerInfo[0].Salary = 42624;
+            workerInfo[2].Salary = 42624;
 
             for (int i = 0; i < 3; i++)
             {
